@@ -1,4 +1,4 @@
-krb5 Cookbook
+krb5_support Cookbook
 =============
 
 [![Cookbook Version](http://img.shields.io/cookbook/v/krb5.svg)](https://supermarket.getchef.com/cookbooks/krb5)

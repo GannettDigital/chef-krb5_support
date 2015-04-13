@@ -1,4 +1,4 @@
-name             'krb5-support'
+name             'krb5_support'
 maintainer       'daniel washko'
 maintainer_email 'dwashko@gmti.gannett.com'
 license          'All rights reserved'
