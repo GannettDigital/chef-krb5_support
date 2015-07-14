@@ -1,3 +1,8 @@
-# 0.1.0
+krb5_support CHANGELOG
+========================
 
-Initial release of krb5_support
+This file is used to list changes made in each version of the krb5_support cookbook.
+
+0.1.1
+-----
+- Rob Gindes - updated Berksfile.
